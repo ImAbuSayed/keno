@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/keno/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Keno?](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Keno?](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা আঁধারে তোমারই ছায়া খুঁজি সারাক্ষণ
+> হৃদয়ের গভীরে বাজে তোমারই প্রেমের অনুরণন
+> কেনো এই মায়া, কেনো এই শূন্যতা আমাকে কাঁদায়
+> অদৃশ্য এক বাঁধনে আমাকে শুধু তোমার দিকে জড়ায়
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
